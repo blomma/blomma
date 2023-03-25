@@ -1,6 +1,10 @@
 
 ### Hi there 👋, Guru Meditation
 
+[![Blomma's github stats](https://github-readme-stats.vercel.app/api?username=blomma&count_private=true&show_icons=true)](https://github.com/blomma)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blomma&hide=php)](https://github.com/blomma)
+
 <!--
 **blomma/blomma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
