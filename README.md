@@ -15,7 +15,3 @@ I'm Mikael: coder, baker, climber. I make small apps and useful tools, and have 
 ## 🌼 beyond the fence
 
 [My little corner of the web](https://artsoftheinsane.com/) · [Wander through the repositories](https://github.com/blomma?tab=repositories)
-
----
-
-_Please mind the frog. He lives here._
